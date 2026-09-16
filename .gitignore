@@ -1,0 +1,23 @@
+# PyCharm
+.idea/
+
+# Dependencias
+node_modules/
+source/node_modules/
+
+# Variables privadas
+.env
+.env.*
+source/.env
+source/.env.*
+
+# Compilaciones
+build/
+dist/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
